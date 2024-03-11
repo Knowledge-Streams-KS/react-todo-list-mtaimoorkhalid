@@ -1,0 +1,10 @@
+
+.color {
+    background-color: brown;
+    color: white;
+    padding: 20px;
+}
+
+.flex {
+    display: flex;
+}
